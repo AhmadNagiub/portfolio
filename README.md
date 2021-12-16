@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-Pug%20JS-A86454?style=flat&logo=pug&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Angular%20JS-61DAFB?style=flat&logo=react&logoColor=222222"/>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=ffffff"/>
+
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
